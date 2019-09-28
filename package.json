@@ -1,3 +1,6 @@
 {
-  "name": "cypress-demo"
+  "name": "cypress-demo",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
 }
